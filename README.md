@@ -50,7 +50,7 @@ This project uses the California Housing dataset to predict median house prices 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/california-housing-ml.git
+   git clone https://github.com/ShivangD1508/california-housing-ml.git
    cd california-housing-ml
 
 
